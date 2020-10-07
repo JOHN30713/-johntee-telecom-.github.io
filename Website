@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta name="viewport" content "width=device-width, intial-scale=1"/>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+<title>TELECOMMUNICATION NETWORK</title>
+</head>
+<body bgcolor="gray" text= black>
+<header>
+<nav>
+<h1>JOHN TEE TELECOMMUNICATION</h1>
+<div class="nav-bar">
+<ul>
+<li><a href="#"> Home </a></li>
+<li><a href="#">About</a></li>
+<li><a href ="#">Contact us</a></li>
+<li><a href="#">Terms of service</a></li>
+<li><a href="#"> Privacy Policy </a></li>
+</ul>
+</nav>
+</header>
+<br />
+<hr />
+<main>
+<h1 align="center"> WELOME TO UNLIMITED DATA AND CALL</h1>
+<img src="IMG_0921.JPG" style="float : center"width="700" height="600" />
+<h2 align=center style="color:green"> HISTORY OF TELECOMMUNICATION</h2>
+<p style="color:gold"><p style="text-align:centre">Telecommunication (from Latin communicatio, referring to the social process of information exchange, and the Greek prefix tele-, meaning distance) is the transmission of information by various types of technologies over wire, radio, optical or other electromagnetic systems.</p>
+<p>It has its origin in the desire of <i>humans for communication</i> over a distance greater than that feasible with the human voice, but with a similar scale of expediency; thus, slow systems (such as postal mail) are excluded from the field. </p>
+<a href="http://www.telecom.com">http://www.telecom.com</a>
+<p> Telecommunication is one of the most essential tools used for making communication. Also it helps communicate to all peole in the global world.</p>
+<p> Also data is also use to connect to the internet and also u can use it to browser and do some stuffs on the internet, do u know that there are various types of data. they are mtn,glo,airtel and 9moble. and the data usage also matters alot. you can but a data of 1GB and used it finish in aday in which the data is assigned for a month on a normal circumstances.</p>
+<p>   On 25 July 1837 the first commercial electrical telegraph was demonstrated by English inventor Sir William Fothergill Cooke, and English scientist Sir Charles Wheatstone.Both inventors viewed their device as "an improvement to the [existing] electromagnetic telegraph" not as a new device.</p>
+<p> samuel Morse independently developed a version of the electrical telegraph that he unsuccessfully demonstrated on 2 September 1837. His code was an important advance over Wheatstone's signaling method. The first transatlantic telegraph cable was successfully completed on 27 July 1866, allowing transatlantic telecommunication for the first time.</p>
+<p>The conventional telephone was patented by Alexander Bell in 1876. Elisha Gray also filed a caveat for it in 1876. Gray abandoned his caveat and because he did not contest Bell's priority, the examiner approved Bell's patent on March 3, 1876. Gray had filed his caveat for the variable resistance telephone, but Bell was the first to write down the idea and the first to test it in a telephone.</p>
+<p>Antonio Meucci invented a device that allowed the electrical transmission of voice over a line nearly thirty years before in 1849, but his device was of little practical value because it relied on the electrophonic effect requiring users to place the receiver in their mouths to "hear".</p>
+<p><b>The first commercial telephone services were set-up by the Bell Telephone Company in 1878 and 1879 on both sides of the Atlantic in the cities of New Haven and London.</b></p>
+<p>Are you confuse of where to get your unlimited data,<b>JOHN TEE TELECOMMUNICATION</b>is here for you. we have various types of network here in nigeria namely</p>
+<p>NETWORK</p>
+<ol>
+<li>MTN</li>
+<1li>GLO</li>
+<li>AIRTEL</li>
+<li>ETISALAT</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>NETWORK</th>
+<th>QUANTITY</th>
+<th>PRICE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MTN</td>
+<td>1GB</td>
+<td>400</td>
+</tr>
+<tr>
+<td>    </td>
+<td>2GB</td>
+<td>800</td>
+</tr>
+<tr>
+<td></td>
+<td>3GB</td>
+<td>1200</td>
+</tr>
+</tbody>
+</table>
+<head>
+<style type="text/css">
+dt{font-weight: bold}
+dd{font-style:italic }
+</style>
+<dl>
+<dt>MTN</dt>
+    <dd>Everywhere u go</dd>
+<dl>
+<dt> GLO</dt>
+<dd>Glo with pride</dd>
+</dl>
+<centre>
+<img src=IMG_0920.JPG/>
+</centre>
+<div>
+<div style="background: yellow; width:600px ; height: 50px">
+<p>telecommunication can never be eradicated</p>
+</div>
+<p>
+<span style="font-size:30px">JOIN</span>  <span style="color: blue">US</span> <span style="color:green">TODAY</span>
+</p>
+<video src="InShot_20200918_234023268.mp4" width="480" height="320" controls></video>
+<p> for your registration to <b>JOHNTEE TELECOM</b></p>
+<p>Upload your photo</p>
+<input type="file" multiple/>
+<form action="form-page-handler.html" method"POST>
+<input type"text" name="Fullname" placeholder="Fullname" /> <br/>
+<input type"text" name="Age" placeholder="Age" /> <br/>
+<input type"text" name="Sex" placeholder="Sex" /> <br/>
+<input type"text" name="Telephone number" placeholder="Telephone number" /> <br/>
+<input type"text" name="Email" placeholder="Email" /> <br/>
+<input type"text" name="State of origin" placeholder="State of origin" /> <br/>
+<input type="submit"/>
+</form>
+<p>comment on the website</p>
+<label for="demo">Name</label>
+<input type="text" id="demo"/><br/>
+<label for="demo">Email</label>
+<input type="text" id="demo"/><br/>
+<label for="demo">comment</label>
+<input type="text" id="demo"/><br/>
+<input type="submit"/>
+
+</main>
+<footer>
+<div class=footer-body>
+<div>JOHN TEE TELECOM</div>
+<h2> &copy; code Liber 2020 | All Right Reserved</h2>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact us</a></li>
+<li><a href="#">Term Of services</a></li>
+<li><a href="#">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="footer-copyright">
+&copy; code Liber 2020 | All Right Reserved
+</div>
+</footer>
+
+
+</body>
+</html>
